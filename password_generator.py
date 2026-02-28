@@ -12,3 +12,6 @@ password = ''.join(random.choice(chars) for i in range(length))
 
 # Show it
 print("Your password is:", password)
+
+###Read me this is not the final i will advance it more
+
